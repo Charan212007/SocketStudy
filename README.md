@@ -1,5 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-
+# Name: K Charan Teja
+# Register No: 212224040163
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
@@ -53,6 +54,13 @@ Socket programming finds applications in various domains, including web developm
 4.	Networked Games: Online multiplayer games rely on socket programming to facilitate communication between game clients and servers.
 5.	RPC mechanisms: which allow processes to execute code on a remote server, often use socket programming for communication.
 
+## Output
+
+### Client
+![alt text](<Screenshot 2024-08-21 153125.png>)
+
+### Server
+![alt text](<Screenshot 2024-08-21 153206.png>)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
