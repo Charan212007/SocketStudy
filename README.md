@@ -57,10 +57,12 @@ Socket programming finds applications in various domains, including web developm
 ## Output
 
 ### Client
-![alt text](<Screenshot 2024-08-21 153125.png>)
+![image](https://github.com/user-attachments/assets/81fdd8fd-07aa-4e4a-96b8-8f8020519296)
+
 
 ### Server
-![alt text](<Screenshot 2024-08-21 153206.png>)
+![image](https://github.com/user-attachments/assets/f1a22be4-2b3c-4f0f-a1ee-250da22efa05)
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
